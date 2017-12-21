@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+    <add key="mail" value=" "/>
+    <add key="poidsmin" value="20"/>
+    <add key="poidsmax" value="40"/>
+    <add key="adresseip" value=" "/>
+  </appSettings>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5"/></startup></configuration>

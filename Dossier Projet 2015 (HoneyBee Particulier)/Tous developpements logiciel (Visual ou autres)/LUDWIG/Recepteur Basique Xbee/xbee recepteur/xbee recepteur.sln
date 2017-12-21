@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xbee recepteur", "xbee recepteur\xbee recepteur.csproj", "{A3F90457-51B3-4A43-90CD-CA329C196EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F90457-51B3-4A43-90CD-CA329C196EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F90457-51B3-4A43-90CD-CA329C196EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F90457-51B3-4A43-90CD-CA329C196EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F90457-51B3-4A43-90CD-CA329C196EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

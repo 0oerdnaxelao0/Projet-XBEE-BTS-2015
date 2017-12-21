@@ -1,0 +1,90 @@
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.resources
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.tinyresources
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\le\FEZ Panda II Application.exe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\be\FEZ Panda II Application.exe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\le\FEZ Panda II Application.pdb
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\be\FEZ Panda II Application.pdb
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\FEZ Panda II Application.exe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\FEZ Panda II Application.pdb
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\le\FEZ Panda II Application.pe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\le\FEZ Panda II Application.pdbx
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\be\FEZ Panda II Application.pe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\bin\Debug\be\FEZ Panda II Application.pdbx
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\be\FEZ Panda II Application.pe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\be\FEZ Panda II Application.pdbx
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\le\FEZ Panda II Application.pe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\le\FEZ Panda II Application.pdbx
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\FEZ Panda II Application.exe
+C:\Documents and Settings\Philippe\Local Settings\Application Data\Temporary Projects\PANDA_II_XBEE_E\obj\Debug\FEZ Panda II Application.pdb
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.exe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.exe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pdb
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pdb
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\PANDA_II_XBEE_E.exe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\PANDA_II_XBEE_E.pdb
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pdbx
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pdbx
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.resources
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.tinyresources
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\be\PANDA_II_XBEE_E.pe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\be\PANDA_II_XBEE_E.pdbx
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\le\PANDA_II_XBEE_E.pe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\le\PANDA_II_XBEE_E.pdbx
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.exe
+C:\Documents and Settings\Philippe\Mes documents\Visual Studio 2010\Projects\EX_Visual_C#_2010_EXPRESS\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.pdb
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.exe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.exe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pdb
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pdb
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\PANDA_II_XBEE_E.exe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\PANDA_II_XBEE_E.pdb
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pdbx
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pdbx
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.csprojResolveAssemblyReference.cache
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\TinyCLR_DebugReferences.cache
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.resources
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.csproj.GenerateResource.Cache
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.tinyresources
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\TinyResGen.cache
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\be\PANDA_II_XBEE_E.pe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\be\PANDA_II_XBEE_E.pdbx
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\le\PANDA_II_XBEE_E.pe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\le\PANDA_II_XBEE_E.pdbx
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.exe
+E:\Informatique\Projet HoneyBee particulier 2015\Programme xbee\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.pdb
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.exe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.exe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pdb
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pdb
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\PANDA_II_XBEE_E.exe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\PANDA_II_XBEE_E.pdb
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\le\PANDA_II_XBEE_E.pdbx
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\bin\Debug\be\PANDA_II_XBEE_E.pdbx
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.resources
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.Resources.tinyresources
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\TinyResGen.cache
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\be\PANDA_II_XBEE_E.pe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\be\PANDA_II_XBEE_E.pdbx
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\le\PANDA_II_XBEE_E.pe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\le\PANDA_II_XBEE_E.pdbx
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.exe
+C:\Users\Eric\Desktop\PANDA_II_XBEE_E\PANDA_II_XBEE_E\obj\Debug\PANDA_II_XBEE_E.pdb

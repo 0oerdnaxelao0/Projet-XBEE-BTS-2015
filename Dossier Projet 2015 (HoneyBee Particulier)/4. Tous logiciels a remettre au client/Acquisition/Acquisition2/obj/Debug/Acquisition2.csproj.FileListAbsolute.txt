@@ -1,0 +1,254 @@
+D:\Acquisition2\Acquisition2\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Acquisition2\Acquisition2\obj\Debug\Acquisition2.Resources.resources
+D:\Acquisition2\Acquisition2\obj\Debug\Acquisition2.csproj.GenerateResource.Cache
+D:\Acquisition2\Acquisition2\obj\Debug\Acquisition2.Resources.tinyresources
+D:\Acquisition2\Acquisition2\obj\Debug\TinyResGen.cache
+D:\Acquisition2\Acquisition2\bin\Debug\le\Acquisition2.exe
+D:\Acquisition2\Acquisition2\bin\Debug\be\Acquisition2.exe
+D:\Acquisition2\Acquisition2\bin\Debug\le\Acquisition2.pdb
+D:\Acquisition2\Acquisition2\bin\Debug\be\Acquisition2.pdb
+D:\Acquisition2\Acquisition2\bin\Debug\Acquisition2.exe
+D:\Acquisition2\Acquisition2\bin\Debug\Acquisition2.pdb
+D:\Acquisition2\Acquisition2\bin\Debug\le\Acquisition2.pe
+D:\Acquisition2\Acquisition2\bin\Debug\le\Acquisition2.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\be\Acquisition2.pe
+D:\Acquisition2\Acquisition2\bin\Debug\be\Acquisition2.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+D:\Acquisition2\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+D:\Acquisition2\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+D:\Acquisition2\Acquisition2\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.dll
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.dll
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.xml
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.xml
+D:\Acquisition2\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+D:\Acquisition2\Acquisition2\obj\Debug\be\Acquisition2.pe
+D:\Acquisition2\Acquisition2\obj\Debug\be\Acquisition2.pdbx
+D:\Acquisition2\Acquisition2\obj\Debug\le\Acquisition2.pe
+D:\Acquisition2\Acquisition2\obj\Debug\le\Acquisition2.pdbx
+D:\Acquisition2\Acquisition2\obj\Debug\Acquisition2.exe
+D:\Acquisition2\Acquisition2\obj\Debug\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\le\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\be\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\le\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\be\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\le\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\le\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\be\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\be\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\Acquisition2.csprojResolveAssemblyReference.cache
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\Acquisition2.Resources.resources
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\Acquisition2.csproj.GenerateResource.Cache
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\Acquisition2.Resources.tinyresources
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\TinyResGen.cache
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\be\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\be\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\le\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\le\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition2 - Copie\Acquisition2\obj\Debug\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\le\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\be\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\le\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\be\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\le\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\le\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\be\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\be\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\Acquisition2.csprojResolveAssemblyReference.cache
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\Acquisition2.Resources.resources
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\Acquisition2.csproj.GenerateResource.Cache
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\Acquisition2.Resources.tinyresources
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\TinyResGen.cache
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\be\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\be\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\le\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\le\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition-Xbee\Acquisition2\obj\Debug\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\Acquisition2.pdb
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.csprojResolveAssemblyReference.cache
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.Resources.resources
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.csproj.GenerateResource.Cache
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.Resources.tinyresources
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\TinyResGen.cache
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\be\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\be\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\le\Acquisition2.pe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\le\Acquisition2.pdbx
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.exe
+C:\Users\iris\Desktop\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.pdb
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.exe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.exe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.pdb
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.pdb
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\Acquisition2.exe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\Acquisition2.pdb
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\le\Acquisition2.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\be\Acquisition2.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.dll
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.dll
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.dll
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.IO.xml
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.System.xml
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.csprojResolveAssemblyReference.cache
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\TinyCLR_DebugReferences.cache
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.Resources.resources
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.csproj.GenerateResource.Cache
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.Resources.tinyresources
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\TinyResGen.cache
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\be\Acquisition2.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\be\Acquisition2.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\le\Acquisition2.pe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\le\Acquisition2.pdbx
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.exe
+E:\PROJET-HONEYBEE\Acquisition_Xbee\Acquisition2\obj\Debug\Acquisition2.pdb
